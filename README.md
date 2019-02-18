@@ -1,16 +1,10 @@
-# PythonWebScraper
+# Quine
+## How t0
+brew install python3
+python3 scraper.py
 
-Another web-scraper to get some tasty emails 
-
-# How to use 
-
-All of the scraping is done in `scrape.py`. 
-
-# Theory
-
-*Picture:**
-<pre>
-SCRAPER <- Feed it a link
+## Algorithm
+QUINE <- Feed it a link
    |
    ▼
 1.Scan for more `<a>` links
@@ -27,4 +21,4 @@ SCRAPER <- Feed it a link
   |
   ▼
 4.Repeate til no new links or emailes are found
-</pre># quine
+
