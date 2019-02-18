@@ -4,6 +4,7 @@ brew install python3
 python3 scraper.py
 
 ## Algorithm
+<pre>
 QUINE <- Feed it a link
    |
    ▼
@@ -21,4 +22,4 @@ QUINE <- Feed it a link
   |
   ▼
 4.Repeate til no new links or emailes are found
-
+</pre>
