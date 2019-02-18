@@ -19,7 +19,7 @@ init()
 
 # UNCOMMENT THIS ON PRODUCTION
 print(Back.BLUE + "|~ 407 Email Scraper v3 ~|" )
-starting_url = input("Enter Website Link to Scrape: ")
+starting_url = "http://407.group"
 print("Starting scraper.." + Back.BLACK)
 
 # a queue of urls to be crawled
