@@ -1,6 +1,6 @@
 # Quine
-## How t0
-brew install python3
+[What am I?](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
+## How to
 python3 scraper.py
 
 ## Algorithm
